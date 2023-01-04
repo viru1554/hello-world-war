@@ -3,7 +3,7 @@
 <title>Hello World!</title>
 </head>
 <body>
-	<h1>Succesfully completed todya assignment</h1>
+	<h1>Succesfully completed today assignment</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
